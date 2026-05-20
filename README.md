@@ -16,3 +16,30 @@ The goal of the project is to identify which categories and products generate th
 ## Dashboard Preview
 
 ![Dashboard Overview](dashboard_overview.png)
+
+## Tools Used
+
+- Excel
+- Power BI
+- DAX
+- Data Visualization
+
+## DAX Calculation
+
+```DAX
+Profit Margin = DIVIDE(SUM(Orders[Profit]), SUM(Orders[Sales]))
+```
+
+## Key Insights
+
+- Technology generated the highest sales and profit.
+- Furniture showed significantly lower profit margins compared to other categories.
+- Profit increased toward the end of the year.
+- Some sub-categories generated strong sales but relatively low profit.
+
+## Business Recommendations
+
+- Investigate low-margin furniture products.
+- Focus marketing efforts on high-performing technology products.
+- Review discount strategy for low-profit categories.
+- Optimize underperforming sub-categories.
