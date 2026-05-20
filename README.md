@@ -12,3 +12,7 @@ The dashboard focuses on:
 - Sub-category comparison
 
 The goal of the project is to identify which categories and products generate the highest sales and profit, and to uncover low-margin areas that may require business attention.
+
+## Dashboard Preview
+
+![Dashboard Overview](dashboard_overview.png)
