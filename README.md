@@ -44,6 +44,14 @@ The Excel analysis focused on:
 
 ![Dashboard Overview](dashboard_overview.png)
 
+## Files Included
+
+- `Superstore.xlsx` — Dataset used for the analysis
+- `Retail_Sales_Profitability_Analysis.pbix` — Power BI dashboard file
+- `dashboard_overview.png` — Dashboard preview
+- `excel_subcategory_analysis.png` — Excel pivot analysis
+- `excel_chart_analysis.png` — Excel chart analysis
+
 ## Tools Used
 
 - Excel
